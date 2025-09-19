@@ -1,0 +1,21 @@
+# Byte-code files
+*.pyc
+*.pyo
+__pycache__/
+
+# Distribution / packaging
+.Python
+env/
+venv/
+lib/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.roots
